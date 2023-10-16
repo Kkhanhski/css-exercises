@@ -1,0 +1,18 @@
+html {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.numbered-elements {
+    background-color: rgba(207, 112, 112, 0.534);
+}
+#number-2 {
+    color: blue;
+    font-size: 32px;
+}
+#number-4 {
+    font-size: 24px;
+    background-color: rgba(61, 190, 61, 0.781);
+    font-weight: 600;
+}
+.cool {
+    font-size: 24px;
+}
